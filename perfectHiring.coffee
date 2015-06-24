@@ -1,3 +1,4 @@
+## Brain Tickler - Practice problems 
 processData = (input) ->
 	input = input.split "\n"
 	npx = input[0].split " "
